@@ -1,0 +1,3 @@
+C:/Users/negfi/CLionProjects/singleProcess/cmake-build-debug/CMakeFiles/singleProcess.dir
+C:/Users/negfi/CLionProjects/singleProcess/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/negfi/CLionProjects/singleProcess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
